@@ -4,6 +4,8 @@ I am proficient in harnessing the power of Excel and SQL to transform raw data i
 
 I enjoy delving into data, extracting its stories, and using visualizations to drive actionable insights.
 
+Email- 1moyo.nade@gmail.com
+
 
 <!---
 moyosoreiyunade/moyosoreiyunade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
